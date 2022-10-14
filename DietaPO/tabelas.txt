@@ -1,0 +1,79 @@
+Para os quatro anos de idade ou mais, 
+comendo 2.000 Kcal (calorias) por dia s, os valores diários são:
+
+Colesterol	300 mg
+Total de Carboidratos	300 g
+Fibras	25 g
+Proteína	50 g
+=========================================
+----------------------
+[(a1)100g de Arroz:]
+R$ 0,99
+-Colesterol 0 mg
+-Carboidratos 28 g
+-Fibra Alimentar 0,4 g
+-Proteínas 2,7 g
+----------------------
+[(a2)100g de Feijão:]
+R$ 0,90
+-Colesterol 0 mg
+-Carboidratos 59,4 g
+-Fibra Alimentar 21,12 mg
+-Proteínas 24,2 g
+----------------------
+[(a3)100g de Açucar:]
+R$ 0,79
+-Colesterol 0 mg
+-Carboidratos 100 g
+-Fibra Alimentar 0 g
+-Proteínas 0 g
+----------------------
+[(a4)100g de Alface:]
+R$ 0,95
+-Colesterol 0 mg
+-Carboidratos 2,9 g
+-Fibra Alimentar 1,3 g
+-Proteínas 1,4 g
+----------------------
+[(a5)100g de Queijo:]
+R$ 0,49
+-ColesteroL 105  mg
+-Carboidratos 1,3 g
+-Fibra Alimentar 0 g
+-Proteínas  25 g
+----------------------
+[(a6)100g de Peixe:]
+R$: 1,49
+-Colesterol 57 mg
+-Carboidratos 0 g
+-Fibra Alimentar 0 g
+-Proteínas 26 g
+----------------------
+[(a7)100g de Carne:]
+R$ 1,00
+-ColesteroL 73 mg
+-Carboidratos 0 g
+-Fibra Alimentar 0 g
+-Proteínas 26 g
+----------------------
+[(a8)100g de Tomate:]
+R$ 0,33.
+-Colesterol 0 mg
+-Carboidratos 3,9 g
+-Fibra Alimentar 1,2 g
+-Proteínas 0,9 g
+-----------------------
+[(a9)100g Suco de Laranja:]
+R$ 0,83
+-Colesterol 0 mg
+-Carboidratos 12  g
+-Fibra Alimentar 2,4  g
+-Proteínas 0,9  g
+----------------------
+[(a10)100g de Leite:]
+R$ 0,40
+-ColesteroL 5 mg
+-Carboidratos 5 g
+-Fibra Alimentar 0 g
+-Proteínas 3,4 g
+----------------------
